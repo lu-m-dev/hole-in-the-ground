@@ -1,19 +1,18 @@
 # Hole in the Ground
 
-A 3D physics game inspired by the delightfully clever 2018 game [Donut County](www.donutcounty.com).
+A toy 3D physics game demonstrating rigid-body dynamics and collision handling, inspired by the delightfully clever 2018 game [Donut County](www.donutcounty.com).
 
 _Please note: The full source code is omitted from this public mirror to preserve academic integrity. It can be provided for review upon request._
 
 ## Gameplay
 - You play as **a hole in the ground**.
 - Control hole movement using WASD.
-- The hole gets bigger each time an object falls inside it.
-- Swallow as many as you can!
+- The hole becomes bigger each time an object falls inside it.
+- Swallow the world!
 
 ## Features
-- Physically based rigid body dynamics and collision
-- Object motion described by gravity, friction, and energy loss upon collision
-- Collision handling with position correction
+- Physically-based rigid body motion (gravity, friction, restitution)
+- Collision detection and position correction
 
 ## Build instructions
 
