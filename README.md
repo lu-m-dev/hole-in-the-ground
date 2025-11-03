@@ -6,7 +6,7 @@ _Please note: The full source code is omitted from this public mirror to preserv
 
 ## Gameplay
 - You play as **a hole in the ground**.
-- Control hole movement using WASD.
+- Control hole movement using `WASD`.
 - The hole gets bigger each time an object falls inside it.
 - Swallow as many as you can!
 
@@ -31,7 +31,7 @@ npm run start
 
 ## Credit
 
-This game uses royalty-ffree sound effects from [ZapSplat](https://www.zapsplat.com/).
+This game uses royalty-free sound effects from [ZapSplat](https://www.zapsplat.com/).
 
 ## License
 
