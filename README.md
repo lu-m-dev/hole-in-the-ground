@@ -6,15 +6,9 @@ _Please note: The full source code is omitted from this public mirror to preserv
 
 ## Gameplay
 - You play as **a hole in the ground**.
-<<<<<<< HEAD
 - Control hole movement using `WASD`.
 - The hole becomes bigger each time an object falls inside it.
 - Swallow the world!
-=======
-- Control hole movement using `WASD`.
-- The hole gets bigger each time an object falls inside it.
-- Swallow as many as you can!
->>>>>>> 1ef8b417b970855f21f36f55c5cacaf212608483
 
 ## Features
 - Physically-based rigid body motion (gravity, friction, restitution)
