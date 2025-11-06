@@ -4,6 +4,9 @@ A toy 3D physics game demonstrating rigid-body dynamics and collision handling, 
 
 _Please note: The full source code is omitted from this public mirror to preserve academic integrity. It can be provided for review upon request._
 
+## Game demo
+<img src="./demo.gif" alt="game demo" style="width: 80%; height: auto; display: block; margin: auto;"/>
+
 ## Gameplay
 - You play as **a hole in the ground**.
 - Control hole movement using `WASD`.
